@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Socialii</string>
+    <string name="sign_in_with_google">Sign In WIth Google</string>
+    <string name="from_v">from V</string>
+    <string name="lets_talk_something_fun">Lets Talk Something Fun..</string>
+    <string name="post">POST</string>
+    <string name="button">Logout</string>
+</resources>
